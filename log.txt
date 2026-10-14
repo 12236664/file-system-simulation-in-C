@@ -1,0 +1,31 @@
+Entered directory
+Created file
+Wrote to file
+Entered directory
+Created directory
+Created file
+Wrote to file
+Exited directory
+Deleted file
+Entered directory
+Deleted directory
+Entered directory
+Deleted directory
+Entered directory
+Exited directory
+Deleted file
+Entered directory
+Wrote to file
+Deleted file
+Exited directory
+Entered directory
+Deleted file
+Exited directory
+Entered directory
+Created file
+Wrote to file
+Entered directory
+Deleted directory
+Entered directory
+Deleted directory
+Deleted directory
